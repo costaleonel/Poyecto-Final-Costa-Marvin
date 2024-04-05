@@ -1,0 +1,58 @@
+$mifuente1:"Merriweather", serif;
+$mifuente2:"Ojuju", sans-serif;
+$mifuente3: "Madimi One", sans-serif;
+
+$micolor1:#F05D0E;
+$micolor2:#09636B;
+$micolor3:#000;
+$micolor4:#08c3ff;
+$micolor5:#f8f8f8fd;
+
+
+
+@mixin anclas1 {
+    background-color: #000;
+    color: $micolor4;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+@mixin DH2{
+    color: $micolor1;
+}
+@mixin PD{
+    font-family: $mifuente3;
+    text-align: center;
+    color: $micolor5;
+    font-size: 20px;
+}
+@mixin AD{
+    color: $micolor3;
+    font-size: 20px;
+    background-color: $micolor1;
+    text-decoration: none;
+    margin-bottom: 5%;
+}
+@mixin img{
+    padding: 300px
+}
+.presdestinos{
+    @include anclas1;
+}
+.PD{
+    @include PD
+}
+
+.destino-cordoba{
+    margin-top: 5%
+}
+.destino-cordoba h2{
+    @include DH2
+}
+button, .AD{
+    @include AD;
+    text-decoration: noneS;
+}
+.sanluis{
+    margin-top: 5%
+}

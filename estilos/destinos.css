@@ -1,0 +1,36 @@
+.presdestinos {
+  background-color: #000;
+  color: #08c3ff;
+  text-align: center;
+  font-size: 30px;
+  padding: 20px;
+}
+
+.PD {
+  font-family: "Madimi One", sans-serif;
+  text-align: center;
+  color: rgba(248, 248, 248, 0.9921568627);
+  font-size: 20px;
+}
+
+.destino-cordoba {
+  margin-top: 5%;
+}
+
+.destino-cordoba h2 {
+  color: #F05D0E;
+}
+
+button, .AD {
+  color: #000;
+  font-size: 20px;
+  background-color: #F05D0E;
+  text-decoration: none;
+  margin-bottom: 5%;
+  -webkit-text-decoration: noneS;
+          text-decoration: noneS;
+}
+
+.sanluis {
+  margin-top: 5%;
+}/*# sourceMappingURL=destinos.css.map */

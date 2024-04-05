@@ -10,7 +10,6 @@ font-family: "Merriweather", serif; */
 
 .navbar {
   background-color: #F05D0E;
-  color: rgb(2, 2, 14);
   min-height: 100px;
 }
 
@@ -113,7 +112,7 @@ footer p {
 }
 
 footer a {
-  color: #09636B;
+  color: #000;
   text-decoration: none;
   font-size: 30px;
 }
@@ -152,12 +151,12 @@ main.call {
   background-color: rgba(92, 87, 87, 0.397);
   width: 70%;
   padding: 20px;
-  border: 3px solid #0E41B0;
+  border: 3px solid #08c3ff;
   text-align: center;
 }
 
 .call h1 {
-  color: #F05D0E;
+  color: #79cad1;
   text-shadow: 0 0 5px;
 }
 
@@ -166,7 +165,7 @@ main.call {
 }
 
 .call1 h2 {
-  color: #0E41B0;
+  color: #08c3ff;
   background-color: #000;
   text-align: center;
   font-size: 30px;
@@ -191,7 +190,7 @@ main.call {
   }
 }
 .galeriah2 {
-  color: #0E41B0;
+  color: #08c3ff;
   background-color: #000;
   text-align: center;
   font-size: 30px;
@@ -305,7 +304,7 @@ main.call {
   }
 }
 .galery-index a {
-  background-color: #0E41B0;
+  background-color: #08c3ff;
   color: #000;
 }
 
@@ -315,7 +314,7 @@ body {
 
 .presdestinos {
   background-color: #000;
-  color: #0E41B0;
+  color: #08c3ff;
   text-align: center;
   font-size: 30px;
   padding: 20px;
@@ -337,7 +336,7 @@ body {
 }
 
 button, .AD {
-  color: #0E41B0;
+  color: #000;
   font-size: 20px;
   background-color: #F05D0E;
   text-decoration: none;
@@ -352,7 +351,7 @@ button, .AD {
 
 .h2exp {
   background-color: #000;
-  color: #0E41B0;
+  color: #08c3ff;
   text-align: center;
   font-size: 30px;
   padding: 20px;
@@ -378,7 +377,7 @@ button, .AD {
 }
 
 .experiencia h1 {
-  color: #0E41B0;
+  color: #000;
   text-align: center;
   text-shadow: 0 0 4px;
   font-family: "Merriweather", serif;
@@ -387,6 +386,7 @@ button, .AD {
 .experiencia a {
   background-color: #F05D0E;
   color: #000;
+  font-size: 20px;
   padding: 10px 30px;
   text-decoration: none;
   border-radius: 15px;
@@ -450,7 +450,7 @@ section {
 
 .card-body {
   font-family: "Merriweather", serif;
-  color: #04BF8A;
+  color: #93afd3;
   background-color: #000;
 }
 
