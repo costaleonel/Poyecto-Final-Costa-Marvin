@@ -62,6 +62,10 @@ main {
   color: rgba(248, 248, 248, 0.9921568627);
 }
 
+.basic-1 .image-container img {
+  border-radius: 0.25rem;
+}
+
 .galery-index {
   text-align: center;
   font-size: 20px;
@@ -427,7 +431,7 @@ section {
   margin-bottom: 3%;
 }
 
-.formulario button {
+.was-validated button {
   margin-top: 10px;
   color: #000;
   font-size: 20px;
